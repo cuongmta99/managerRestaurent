@@ -1,5 +1,6 @@
 {
     server:{
-        aa:aa
+        aa:aa,
+        ipxsss :aa,
     }
 }
